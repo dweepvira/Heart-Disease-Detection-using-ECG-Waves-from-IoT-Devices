@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "284030729203",
+    "project_id": "cardiowatch-c9ce7",
+    "storage_bucket": "cardiowatch-c9ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284030729203:android:df93ac404c8f86b9b17086",
+        "android_client_info": {
+          "package_name": "com.example.cardio_watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284030729203-lvl61mav4hs76l62hn2qu67eshu3h11t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardio_watch",
+            "certificate_hash": "bb298dacc1303db9535347a7b3878b7ca7b1c908"
+          }
+        },
+        {
+          "client_id": "284030729203-o02lcmjbevaadtk4d4sq56opqaucsh7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mWOMuwyJxUpt_9-NHULOeyMgwlxd-r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284030729203-o02lcmjbevaadtk4d4sq56opqaucsh7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284030729203-0k9abq538srdi4jlboeks0rd8ri8701j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cardioWatch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
